@@ -1,0 +1,638 @@
+@media (min-aspect-ratio: 17/10){
+    #bg{
+        background-image: url('./pictures/bg1.jpg');
+        background-size:cover;
+        background-repeat:repeat;
+        background-position:fixed;
+    }
+
+    #person1{
+        width: 10vw;
+        height: 10vw;
+        position: fixed;
+        top: 0vw;
+        left: 0vw;
+    }
+
+    #person2{
+        width: 10vw;
+        height: 10vw;
+        position: fixed;
+        left: 60vw;
+        top: 0vw;
+    }
+
+    #person3{
+        width: 10vw;
+        height: 10vw;
+        position: fixed;
+        top: 0vw;
+        left: 30vw;
+    }
+
+    .button{
+        height: 5vw;
+        width: 5vw;
+        background-color:darkturquoise;
+        font-size: 2vw;
+        opacity: 0.7;
+        float: left;
+    }
+
+    .control1{
+        width: 10vw;
+        height: 40vw;
+        position: fixed;
+        left: 10vw;
+        top: 0vw;
+        
+    }
+
+    .control2{
+        width: 10vw;
+        height: 40vw;
+        position: fixed;
+        left: 70vw;
+        top: 0vw;
+    }
+
+    .control3{
+        width: 10vw;
+        height: 40vw;
+        position: fixed;
+        left: 40vw;
+        top: 0vw;
+    }
+
+    #money1{
+        width: 10vw;
+        height: 10vw;
+        position: fixed;
+        left: 0vw;
+        top: 10vw;
+        background-color: aqua;
+        font-size: 3vw;
+        text-align: center;
+        
+    }
+
+    #money2{
+        width: 10vw;
+        height: 10vw;
+        position: fixed;
+        left: 60vw;
+        top: 10vw;
+        background-color: aqua;
+        font-size: 3vw;
+        text-align:center;
+    }
+
+    #money3{
+        width: 10vw;
+        height: 10vw;
+        position: fixed;
+        left: 30vw;
+        top: 10vw;
+        background-color: aqua;
+        font-size: 3vw;
+        text-align: center;
+    }
+
+    .box{
+        width: 45vw;
+        height: 60vw;
+        position: fixed;
+        top:20vw;
+        left: 5vw;
+    }
+
+    .choose{
+        width: 15vw;
+        height: 5vw;
+        font-size: 2vw;
+        float: left;
+    }
+    #question{
+        width: 45vw;
+        font-size: 2vw;
+    }
+
+    #local{
+        width: 8vw;
+        height: 16vw;
+        position: fixed;
+        left: 87vw;
+        top: 20vw;
+    }
+
+
+
+    #dataclear{
+        width: 8vw;
+        height: 8vw;
+        background-color: yellow;
+        font-size: 2vw;
+        float: left;
+    }
+    #changebg{
+        width: 8vw;
+        height: 8vw;
+        background-color:chartreuse;
+        font-size: 2vw;
+        float: left;
+    }
+    .bombit{
+        width: 0vw;
+        height: 0vw;
+        position: fixed;
+        left: 86vw;
+        top: 5vw;
+    }
+    #bomb{
+        width: 10vw;
+        height: 10vw;
+        background-color: chartreuse;
+        font-size: 3vw;
+        text-align:center;
+    }
+}
+
+@media (max-aspect-ratio: 17/10) and (min-aspect-ratio: 4/5){
+    #bg{
+        background-image: url('./pictures/bg1.jpg');
+        background-size:cover;
+        background-repeat:repeat;
+        background-position:fixed;
+    }
+
+
+    #person1{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        top: 0vw;
+        left: 0vw;
+    }
+
+    #person2{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        left: 66vw;
+        top: 0vw;
+    }
+
+    #person3{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        top: 0vw;
+        left: 33vw;
+    }
+
+    .button{
+        height: 8vw;
+        width: 8vw;
+        background-color:darkturquoise;
+        font-size: 2vw;
+        opacity: 0.7;
+        float: left;
+    }
+
+    .control1{
+        width: 16vw;
+        height: 64vw;
+        position: fixed;
+        left: 16vw;
+        top: 0vw;
+        
+    }
+
+    .control2{
+        width: 16vw;
+        height: 64vw;
+        position: fixed;
+        left: 82vw;
+        top: 0vw;
+    }
+
+    .control3{
+        width: 16vw;
+        height: 64vw;
+        position: fixed;
+        left: 49vw;
+        top: 0vw;
+    }
+
+    #money1{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        left: 0vw;
+        top: 16vw;
+        background-color: aqua;
+        font-size: 3vw;
+        text-align: center;
+        
+    }
+
+    #money2{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        left: 66vw;
+        top: 16vw;
+        background-color: aqua;
+        font-size: 3vw;
+        text-align:center;
+    }
+
+    #money3{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        left: 33vw;
+        top: 16vw;
+        background-color: aqua;
+        font-size: 3vw;
+        text-align: center;
+    }
+
+    .box{
+        width: 30vw;
+        height: 60vw;
+        position: fixed;
+        top:32vw;
+        left: 5vw;
+    }
+
+    .choose{
+        width: 10vw;
+        height: 10vw;
+        font-size: 3vw;
+        float: left;
+    }
+    #question{
+        width: 30vw;
+        font-size: 2vw;
+    }
+
+    #local{
+        width: 8vw;
+        height: 16vw;
+        position: fixed;
+        left: 87vw;
+        top: 40vw;
+    }
+
+
+
+    #dataclear{
+        width: 8vw;
+        height: 8vw;
+        background-color: yellow;
+        font-size: 2vw;
+        float: left;
+    }
+    #changebg{
+        width: 8vw;
+        height: 8vw;
+        background-color:chartreuse;
+        font-size: 2vw;
+        float: left;
+    }
+    .bombit{
+        width: 0vw;
+        height: 0vw;
+        position: fixed;
+        left: 70vw;
+        top: 40vw;
+    }
+    #bomb{
+        width: 16vw;
+        height: 16vw;
+        background-color: chartreuse;
+        font-size: 3vw;
+        text-align:center;
+    }
+}
+
+@media  (max-aspect-ratio: 4/5) and (min-aspect-ratio: 1/2){
+    #bg{
+        background-image: url('./pictures/bg1.jpg');
+        background-size:cover;
+        background-repeat:repeat;
+        background-position:fixed;
+    }
+
+
+    #person1{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        top: 0vw;
+        left: 0vw;
+    }
+
+    #person2{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        left: 0vw;
+        top: 64vw;
+    }
+
+    #person3{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        top: 32vw;
+        left: 0vw;
+    }
+
+    .button{
+        height: 8vw;
+        width: 40vw;
+        background-color:darkturquoise;
+        font-size: 3vw;
+        opacity: 0.7;
+        float: left;
+    }
+
+    .control1{
+        width: 80vw;
+        height: 32vw;
+        position: fixed;
+        left: 16vw;
+        top: 0vw;
+        
+    }
+
+    .control2{
+        width: 80vw;
+        height: 32vw;
+        position: fixed;
+        left: 16vw;
+        top: 64vw;
+    }
+
+    .control3{
+        width: 80vw;
+        height: 32vw;
+        position: fixed;
+        left: 16vw;
+        top: 32vw;
+    }
+
+    #money1{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        left: 0vw;
+        top: 16vw;
+        background-color: aqua;
+        font-size: 3vw;
+        text-align: center;
+        
+    }
+
+    #money2{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        left: 0vw;
+        top: 80vw;
+        background-color: aqua;
+        font-size: 3vw;
+        text-align:center;
+    }
+
+    #money3{
+        width: 16vw;
+        height: 16vw;
+        position: fixed;
+        left: 0vw;
+        top: 48vw;
+        background-color: aqua;
+        font-size: 3vw;
+        text-align: center;
+    }
+
+    .box{
+        width: 30vw;
+        height: 60vw;
+        position: fixed;
+        top:96vw;
+        left: 1vw;
+    }
+
+    .choose{
+        width: 10vw;
+        height: 10vw;
+        font-size: 3vw;
+        float: left;
+    }
+    #question{
+        width: 30vw;
+        font-size: 2vw;
+    }
+
+    #local{
+        width: 12vw;
+        height: 24vw;
+        position: fixed;
+        left: 87vw;
+        top: 99vw;
+    }
+
+
+
+    #dataclear{
+        width: 12vw;
+        height: 12vw;
+        background-color: yellow;
+        font-size: 3vw;
+        float: left;
+    }
+    #changebg{
+        width: 12vw;
+        height: 12vw;
+        background-color:chartreuse;
+        font-size: 3vw;
+        float: left;
+    }
+    .bombit{
+        width: 0vw;
+        height: 0vw;
+        position: fixed;
+        left: 60vw;
+        top: 99vw;
+    }
+    #bomb{
+        width: 24vw;
+        height: 24vw;
+        background-color: chartreuse;
+        font-size: 5vw;
+        text-align:center;
+    }
+}
+
+@media  (max-aspect-ratio: 1/2){
+    #bg{
+        background-image: url('./pictures/bg1.jpg');
+        background-size:cover;
+        background-repeat:repeat;
+        background-position:fixed;
+    }
+
+
+    #person1{
+        width: 20vw;
+        height: 20vw;
+        position: fixed;
+        top: 0vw;
+        left: 0vw;
+    }
+
+    #person2{
+        width: 20vw;
+        height: 20vw;
+        position: fixed;
+        left: 0vw;
+        top: 80vw;
+    }
+
+    #person3{
+        width: 20vw;
+        height: 20vw;
+        position: fixed;
+        top: 40vw;
+        left: 0vw;
+    }
+
+    .button{
+        height: 10vw;
+        width: 36vw;
+        background-color:darkturquoise;
+        font-size: 4vw;
+        opacity: 0.7;
+        float: left;
+    }
+
+    .control1{
+        width: 72vw;
+        height: 40vw;
+        position: fixed;
+        left: 20vw;
+        top: 0vw;
+        
+    }
+
+    .control2{
+        width: 72vw;
+        height: 40vw;
+        position: fixed;
+        left: 20vw;
+        top: 80vw;
+    }
+
+    .control3{
+        width: 72vw;
+        height: 40vw;
+        position: fixed;
+        left: 20vw;
+        top: 40vw;
+    }
+
+    #money1{
+        width: 20vw;
+        height: 20vw;
+        position: fixed;
+        left: 0vw;
+        top: 20vw;
+        background-color: aqua;
+        font-size: 4vw;
+        text-align: center;
+        
+    }
+
+    #money2{
+        width: 20vw;
+        height: 20vw;
+        position: fixed;
+        left: 0vw;
+        top: 100vw;
+        background-color: aqua;
+        font-size: 4vw;
+        text-align:center;
+    }
+
+    #money3{
+        width: 20vw;
+        height: 20vw;
+        position: fixed;
+        left: 0vw;
+        top: 60vw;
+        background-color: aqua;
+        font-size: 4vw;
+        text-align: center;
+    }
+
+    .box{
+        width: 90vw;
+        height: 60vw;
+        position: fixed;
+        top:121vw;
+        left: 1vw;
+    }
+
+    .choose{
+        width: 30vw;
+        height: 15vw;
+        font-size: 3vw;
+        float: left;
+    }
+    #question{
+        width: 90vw;
+        font-size: 5vw;
+    }
+
+    #local{
+        width: 12vw;
+        height: 24vw;
+        position: fixed;
+        left: 87vw;
+        top: 170vw;
+    }
+
+
+
+    #dataclear{
+        width: 12vw;
+        height: 12vw;
+        background-color: yellow;
+        font-size: 3vw;
+        float: left;
+    }
+    #changebg{
+        width: 12vw;
+        height: 12vw;
+        background-color:chartreuse;
+        font-size: 3vw;
+        float: left;
+    }
+    .bombit{
+        width: 0vw;
+        height: 0vw;
+        position: fixed;
+        left: 60vw;
+        top: 170vw;
+    }
+    #bomb{
+        width: 24vw;
+        height: 24vw;
+        background-color: chartreuse;
+        font-size: 5vw;
+        text-align:center;
+    }
+}
